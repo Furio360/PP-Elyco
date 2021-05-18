@@ -1,4 +1,3 @@
-1. Encoyer ''@up echo​ off pp-j​'' a une personne au hasart en message.
-2. Faire F12 
-3. Source 
-
+Send '' @up echo off pp-j '' to a random person in a message.
+Do F12
+Source
